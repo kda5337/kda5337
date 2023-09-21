@@ -10,7 +10,7 @@ In order to build it, I will use opencv, deep learning libraries, such as [Tenso
 For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):  
 
 ![Images](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png)  
-  
+
   
 ---
 ### Dependencies (Level 3 Heading)  
@@ -19,7 +19,8 @@ For example, the objects in the following images were detected using [mmdetectio
 - tensorflow
 - openmmlab
 - package manager
-
+  
+  
 ### Installation
 
 In a bash terminal, run the following commands *(Do NOT actually run these commands in your computer)*:  
